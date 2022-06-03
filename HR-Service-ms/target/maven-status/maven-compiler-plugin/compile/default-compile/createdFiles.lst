@@ -1,0 +1,3 @@
+com\geetha\microservice\HRService\HrServiceMsApplication.class
+com\geetha\microservice\HRService\models\Employee.class
+com\geetha\microservice\HRService\resources\HrResource.class
